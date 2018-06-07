@@ -9,5 +9,6 @@ public class javaStudy {
         System.out.println("this is 02 branch");
         System.out.println("this is 01 branch" + "and 02 branch message auto syn");
         System.out.println("after branch02 commit");
+        System.out.println("this is branch01");
     }
 }
