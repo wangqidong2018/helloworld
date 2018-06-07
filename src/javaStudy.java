@@ -7,7 +7,5 @@ public class javaStudy {
 
         System.out.println("hello world 01");
         System.out.println("this is 01 branch");
-        System.out.println("hello world 02");
-        System.out.println("this is 02 branch");
     }
 }
